@@ -4,8 +4,7 @@ N:Rouw;Ulver;Spangsberg;Dr;
 FN:Ulver Spangsberg Rouw
 TITLE:Vascular Surgeon, Clinician-Scientist (MD, PhD)
 ORG:Rigshospitalet
-EMAIL;TYPE=WORK:YOUR_EMAIL
-TEL;TYPE=WORK,VOICE:YOUR_PHONE
-URL:https://YOUR_GITHUB_USERNAME.github.io
+EMAIL;TYPE=WORK:YOUR_BURNER_EMAIL
+URL:https://ulversr.github.io
 NOTE:Met at [conference]. Open to advisory / consulting.
 END:VCARD
